@@ -10,7 +10,7 @@ I’m passionate about using these to uncover insights, improve decision-making,
 *As an emerging data analyst, I apply data-driven approaches to uncover insights and solve problems.*
 
 **- ✅ Data Analysis & Visualization.**  
-I analyze and visualize data using Excel, SPSS, R Studio, Python, and Power BI to create clear and actionable insights.
+I analyze and visualize data using Excel, SPSS, R Studio, SQL, and Power BI to create clear and actionable insights.
 
 **- ✅ Research & Evaluation.**  
 I design and conduct research studies, applying statistical methods and evidence-based practices to answer key questions.
