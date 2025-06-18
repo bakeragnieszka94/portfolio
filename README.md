@@ -37,7 +37,7 @@ I present findings through reports and presentations and work well in teams to d
 
 **Crime Detection in Northumbria**
 
-![image](path-to-your-image2.jpg)
+![image](Crime dashboard 1 and 2.pbip)
 
 *Description here...*
 
