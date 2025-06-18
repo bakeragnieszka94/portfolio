@@ -7,7 +7,7 @@ I’m passionate about using these to uncover insights, improve decision-making,
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
-*As an emerging data analyst with a background in sport science and business analytics, I apply data-driven approaches to uncover insights and solve problems.*
+*As an emerging data analyst, I apply data-driven approaches to uncover insights and solve problems.*
 
 **- ✅ Data Analysis & Visualization.**  
 I analyze and visualize data using Excel, SPSS, R Studio, Python, and Power BI to create clear and actionable insights.
