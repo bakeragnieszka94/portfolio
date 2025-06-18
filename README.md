@@ -37,7 +37,8 @@ I present findings through reports and presentations and work well in teams to d
 
 **Crime Detection in Northumbria**
 
-![Crime Dashboard Preview](images/crime-dashboard-preview.jpg)
+![Crime Dashboard Preview](crime 1.jpg)
+![Crime Dashboard Preview](crime 2.jpg)
 
 This project explores patterns and trends in local crime using two interactive Power BI dashboards:
 - **Dashboard 1:** Overview of crime categories, frequency, and location-based patterns.
