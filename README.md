@@ -53,4 +53,14 @@ I present findings through reports and presentations and work well in teams to d
 
 [Read More](#)
 
+---
+
+**Predictive Modeling and Fairness Analysis of Tech Industry Salaries**
+
+![image](path-to-your-image4.jpg)
+
+In this project, I built predictive models to estimate salaries in the tech sector using machine learning techniques. I also evaluated the models to identify and address potential biases related to gender and race, aiming to promote fairness and equity in compensation practices.
+
+[Read More](#)
+
 
