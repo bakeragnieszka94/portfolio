@@ -19,3 +19,38 @@ I design and conduct research studies, applying statistical methods and evidence
 I present findings through reports and presentations and work well in teams to deliver data-driven projects.
 
 
+## MY PORTFOLIO
+
+*A glimpse of some of the projects I've been working on.*
+
+---
+
+**The Effect of Remote Work on Mental Wellbeing**
+
+![image](path-to-your-image1.jpg)
+
+*Description here...*
+
+[Read More](#)
+
+---
+
+**Crime Detection in Northumbria**
+
+![image](path-to-your-image2.jpg)
+
+*Description here...*
+
+[Read More](#)
+
+---
+
+**Basketball Players Injury**
+
+![image](path-to-your-image3.jpg)
+
+*Description here...*
+
+[Read More](#)
+
+
