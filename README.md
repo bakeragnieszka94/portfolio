@@ -27,7 +27,7 @@ I present findings through reports and presentations and work well in teams to d
 
 **The Effect of Remote Work on Mental Wellbeing**
 
-![image](path-to-your-image1.jpg)
+![image](mentalheealth.jpg)
 
 *Description here...*
 
