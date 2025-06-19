@@ -52,7 +52,7 @@ This project explores patterns and trends in local crime using two interactive P
 
 **Basketball Players Injury**
 
-![image](path-to-your-image3.jpg)
+![image](basketball.jpg)
 
 *Description here...*
 
