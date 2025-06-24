@@ -120,9 +120,6 @@ To enrich the insights and improve the predictive accuracy of this crime analysi
 - 📚 **Education & Youth Statistics**  
   Integrate school location and attendance data to analyze the relationship between education access and youth-involved crime trends.
 
-- 🌦️ **Weather & Seasonal Data**  
-  Add local meteorological data to assess the influence of weather and seasons on crime occurrence and type distribution.
-
 ---
 
 **Basketball Players Injury**
