@@ -88,14 +88,16 @@ Data sources:
 
 ## 💾 Repository Contents
 
-| Folder/File                  | Description                                  |
-|------------------------------|----------------------------------------------|
-| `README.md`                  | Project documentation and setup              |
-| `Crime dashboard 1 and 2.pbip` | Power BI dashboards (interactive)          |
-| `scripts/chi_square_analysis.R` | Chi-square statistical test                |
-| `scripts/getis_ord_analysis.R` | Getis-Ord Gi\* spatial test                 |
-| `data/outcomes_and_street_clean.csv` | Final cleaned dataset                 |
-| `assets/images/`             | Visual previews and heatmaps                 |
+| Folder/File                        | Description                             |
+|----------------------------------|---------------------------------------|
+| `README.md`                      | Project documentation and setup       |
+| `Crime dashboard 1 and 2.pbip`  | Power BI dashboards (interactive)     |
+| `Chisquared test.R`              | Chi-square statistical test           |
+| `GetisOrd GiStatistic.R`         | Getis-Ord Gi* spatial test             |
+| `DATA PREPARATION.R`             | Data preparation (includes script to obtain final dataset) |
+| `hot cold spot map.png`, `hot cold spot table.png` | Visual previews and heatmaps        |
+
+> **Note:** The final cleaned dataset is not included due to its large size. Please run the `DATA PREPARATION.R` script to generate it.
 
 ---
 
