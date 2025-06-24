@@ -90,12 +90,12 @@ Data sources:
 
 | Folder/File                        | Description                             |
 |----------------------------------|---------------------------------------|
-| `README.md`                      | Project documentation and setup       |
-| `Crime dashboard 1 and 2.pbip`  | Power BI dashboards (interactive)     |
-| `Chisquared test.R`              | Chi-square statistical test           |
-| `GetisOrd GiStatistic.R`         | Getis-Ord Gi* spatial test             |
-| `DATA PREPARATION.R`             | Data preparation (includes script to obtain final dataset) |
-| `hot cold spot map.png`, `hot cold spot table.png` | Visual previews and heatmaps        |
+| [`README.md`](README.md)                      | Project documentation and setup       |
+| [`Crime dashboard 1 and 2.pbip`](Crime%20dashboard%201%20and%202.pbip)  | Power BI dashboards (interactive)     |
+| [`Chisquared test.R`](Chisquared%20test.R)              | Chi-square statistical test           |
+| [`GetisOrd GiStatistic.R`](GetisOrd%20GiStatistic.R)         | Getis-Ord Gi* spatial test             |
+| [`DATA PREPARATION.R`](DATA%20PREPARATION.R)             | Data preparation (includes script to obtain final dataset) |
+| [`hot cold spot map.png`](hot%20cold%20spot%20map.png), [`hot cold spot table.png`](hot%20cold%20spot%20table.png) | Visual previews and heatmaps        |
 
 > **Note:** The final cleaned dataset is not included due to its large size. Please run the `DATA PREPARATION.R` script to generate it.
 
