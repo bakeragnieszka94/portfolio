@@ -36,6 +36,86 @@ I present findings through reports and presentations and work well in teams to d
 ---
 
 **Crime Detection in Northumbria**
+layout: default
+title: Crime Detection in Northumbria
+---
+
+# 🕵️‍♂️ Crime Detection in Northumbria
+
+A data-driven investigation into street-level crime patterns across Northumbria, using statistical analysis and geospatial methods to support smarter policing decisions.
+
+---
+
+## 📊 Interactive Dashboards
+
+This project includes two interactive Power BI dashboards that provide insights into regional crime distribution and unresolved case trends.
+
+![Crime Dashboard Preview](crime 1.jpg)
+![Crime Dashboard Preview](crime 2.jpg)
+
+- **Dashboard 1**: Crime overview by type and local authority (heatmaps, pie charts, distribution tables)
+- **Dashboard 2**: Trends over time, seasonal spikes, and resolution outcomes
+
+📥 [Download Power BI File](Crime%20dashboard%201%20and%202.pbip)
+
+---
+
+## 🔍 Project Summary
+
+- **Location**: Northumbria Police jurisdiction (7 local authorities, 932 LSOAs)
+- **Period Analysed**: February 2024 – February 2025  
+- **Total Records**: 104,909 reported crimes  
+- **Unsolved Cases**: 72% of street-level crimes  
+- **Most Common Crime**: Violence & Sexual Offences (25.79%)  
+- **Top Hotspot**: Newcastle upon Tyne (28,940 crimes, 28.18% unsolved)
+
+---
+
+## 🧪 Methodology
+
+The project uses a combination of descriptive and diagnostic techniques:
+
+| Technique         | Tool/Method Used                     | Purpose                                              |
+|------------------|--------------------------------------|------------------------------------------------------|
+| Descriptive       | Power BI                             | Visualize crime patterns and monthly trends          |
+| Statistical Test  | Chi-Square Test in R                 | Check dependence of crime type on location           |
+| Geospatial        | Getis-Ord Gi\* Statistic (R)         | Detect crime hotspots and cold spots using GPS data  |
+
+Data sources:
+- 📂 [Police Data API](https://data.police.uk/data/)
+- 📂 [LSOA Northeast Dataset (UK Gov)](https://assets.publishing.service.gov.uk/media/60423ba6e90e077dd43107f4/LSOA_-_A_-_North_East_1819.ods)
+
+---
+
+## 📌 Key Insights
+
+- **Newcastle** is a consistent hotspot, with high frequency and high % of unsolved cases.
+- **Shoplifting** is unusually high in South Tyneside; **vehicle crime** spikes in Sunderland.
+- **Getis-Ord Gi\*** results revealed crime concentration hotspots not visible through basic charts.
+- Seasonal peaks were observed in **November**, suggesting possible links with environmental or social factors.
+
+---
+
+## 💾 Repository Contents
+
+| Folder/File                  | Description                                  |
+|------------------------------|----------------------------------------------|
+| `README.md`                  | Project documentation and setup              |
+| `Crime dashboard 1 and 2.pbip` | Power BI dashboards (interactive)          |
+| `scripts/chi_square_analysis.R` | Chi-square statistical test                |
+| `scripts/getis_ord_analysis.R` | Getis-Ord Gi\* spatial test                 |
+| `data/outcomes_and_street_clean.csv` | Final cleaned dataset                 |
+| `assets/images/`             | Visual previews and heatmaps                 |
+
+---
+
+## ⚖️ Limitations & Considerations
+
+- Data covers **only 1 year**, limiting long-term pattern recognition.
+- Some entries contain **missing or unknown values**, which may bias results.
+- Results are **specific to Northumbria** and may not generalize to other regions.
+
+---
 
 ![Crime Dashboard Preview](crime 1.jpg)
 ![Crime Dashboard Preview](crime 2.jpg)
