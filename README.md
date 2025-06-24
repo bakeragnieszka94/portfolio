@@ -31,20 +31,6 @@ A data-driven investigation into street-level crime patterns across Northumbria,
 
 ---
 
-## 📊 Interactive Dashboards
-
-This project includes two interactive Power BI dashboards that provide insights into regional crime distribution and unresolved case trends.
-
-![Crime Dashboard Preview](crime 1.jpg)
-![Crime Dashboard Preview](crime 2.jpg)
-
-- **Dashboard 1**: Crime overview by type and local authority (heatmaps, pie charts, distribution tables)
-- **Dashboard 2**: Trends over time, seasonal spikes, and resolution outcomes
-
-📥 [Download Power BI File](Crime%20dashboard%201%20and%202.pbip)
-
----
-
 ## 🔍 Project Summary
 
 - **Location**: Northumbria Police jurisdiction (7 local authorities, 932 LSOAs)
@@ -62,13 +48,26 @@ The project uses a combination of descriptive and diagnostic techniques:
 
 | Technique         | Tool/Method Used                     | Purpose                                              |
 |------------------|--------------------------------------|------------------------------------------------------|
-| Descriptive       | Power BI                             | Visualize crime patterns and monthly trends          |
+| Descriptive       | Power BI                             | Visualize crime patterns and trends                 |
 | Statistical Test  | Chi-Square Test in R                 | Check dependence of crime type on location           |
 | Geospatial        | Getis-Ord Gi\* Statistic (R)         | Detect crime hotspots and cold spots using GPS data  |
 
 Data sources:
 - 📂 [Police Data API](https://data.police.uk/data/)
 - 📂 [LSOA Northeast Dataset (UK Gov)](https://assets.publishing.service.gov.uk/media/60423ba6e90e077dd43107f4/LSOA_-_A_-_North_East_1819.ods)
+
+---
+## 📊 Interactive Dashboards - Descriptive  Statisctics / Visualize crime patterns and trends 
+
+This project includes two interactive Power BI dashboards that provide insights into regional crime distribution and unresolved case trends.
+
+![Crime Dashboard Preview](crime 1.jpg)
+![Crime Dashboard Preview](crime 2.jpg)
+
+- **Dashboard 1**: Crime overview by type and local authority (heatmaps, pie charts, distribution tables)
+- **Dashboard 2**: Trends over time, seasonal spikes, and resolution outcomes
+
+📥 [Download Power BI File](Crime%20dashboard%201%20and%202.pbip)
 
 ---
 
