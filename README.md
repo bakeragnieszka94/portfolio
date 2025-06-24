@@ -122,32 +122,5 @@ To enrich the insights and improve the predictive accuracy of this crime analysi
 
 ---
 
-**Basketball Players Injury**
-
-![image](basketball.jpg)
-
-*Description here...*
-
-[Read More](#)
-
----
-
-**The Effect of Remote Work on Mental Wellbeing**
-
-![image](mentalheealth.jpg)
-
-*Description here...*
-
-[Read More](#)
-
----
-
-**Predictive Modeling and Fairness Analysis of Tech Industry Salaries**
-
-![image](path-to-your-image4.jpg)
-
-*Description here...*
-
-[Read More](#)
 
 
