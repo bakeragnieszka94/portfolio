@@ -25,11 +25,6 @@ I present findings through reports and presentations and work well in teams to d
 
 ---
 
-**Crime Detection in Northumbria**
-layout: default
-title: Crime Detection in Northumbria
----
-
 # 🕵️‍♂️ Crime Detection in Northumbria
 
 A data-driven investigation into street-level crime patterns across Northumbria, using statistical analysis and geospatial methods to support smarter policing decisions.
@@ -79,10 +74,12 @@ Data sources:
 
 ## 📌 Key Insights
 
-- **Newcastle** is a consistent hotspot, with high frequency and high % of unsolved cases.
-- **Shoplifting** is unusually high in South Tyneside; **vehicle crime** spikes in Sunderland.
-- **Getis-Ord Gi\*** results revealed crime concentration hotspots not visible through basic charts.
-- Seasonal peaks were observed in **November**, suggesting possible links with environmental or social factors.
+- **Newcastle** is a consistent hotspot, characterized by a high frequency of crimes and a notably high percentage of unsolved cases.
+- **Shoplifting** incidents are unusually high in **South Tyneside**, while **vehicle crime** shows significant spikes in **Sunderland**.
+- **Getis-Ord Gi\*** spatial analysis findings:  
+  - **Newcastle upon Tyne** has the highest number of hotspots, with **14,868** identified — more than any other local authority.  
+  - **North Tyneside** and **Northumberland** report the fewest cold spots, with **2** and **4** respectively.  
+  - **Sunderland** exhibits the highest number of cold spots, totaling **46**.
 
 ---
 
