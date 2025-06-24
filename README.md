@@ -25,16 +25,6 @@ I present findings through reports and presentations and work well in teams to d
 
 ---
 
-**The Effect of Remote Work on Mental Wellbeing**
-
-![image](mentalheealth.jpg)
-
-*Description here...*
-
-[Read More](#)
-
----
-
 **Crime Detection in Northumbria**
 layout: default
 title: Crime Detection in Northumbria
@@ -116,23 +106,40 @@ Data sources:
 - Results are **specific to Northumbria** and may not generalize to other regions.
 
 ---
+## 🔮 Potential Enhancements
 
-![Crime Dashboard Preview](crime 1.jpg)
-![Crime Dashboard Preview](crime 2.jpg)
+To enrich the insights and improve the predictive accuracy of this crime analysis project, the following external datasets and enhancements are recommended:
 
-This project explores patterns and trends in local crime using two interactive Power BI dashboards:
-- **Dashboard 1:** Overview of crime categories, frequency, and location-based patterns.
-- **Dashboard 2:** Time-based trends, seasonal variation, and monthly comparisons.
+- 🔗 **ONS Demographic & Income Data**  
+  Add population density, income levels, and deprivation indices to correlate socioeconomic factors with crime patterns.
 
-📊 [Download Power BI File](Crime%20dashboard%201%20and%202.pbip)
+- 🧠 **NHS Health Data**  
+  Include datasets on mental health admissions and substance misuse to investigate possible links with specific crime types or areas.
 
-[Read More](#)
+- 🏙️ **Urban Infrastructure Data**  
+  Overlay data on street lighting, CCTV coverage, and public transport to explore how urban infrastructure impacts crime rates and detection.
+
+- 📚 **Education & Youth Statistics**  
+  Integrate school location and attendance data to analyze the relationship between education access and youth-involved crime trends.
+
+- 🌦️ **Weather & Seasonal Data**  
+  Add local meteorological data to assess the influence of weather and seasons on crime occurrence and type distribution.
 
 ---
 
 **Basketball Players Injury**
 
 ![image](basketball.jpg)
+
+*Description here...*
+
+[Read More](#)
+
+---
+
+**The Effect of Remote Work on Mental Wellbeing**
+
+![image](mentalheealth.jpg)
 
 *Description here...*
 
